@@ -24,6 +24,25 @@
 
 ---
 
+关于 Objective 一定要简短， 包含以下信息：
+
+1. 自己想要的职位 Title
+
+2. 公司的名字
+（所以如果觉得不怕麻烦的话， 给每一个公司打印一份单独的简历。
+ 当然如果上传到网上大家都可以看的那种， 可以不需要。）
+
+3. 自己对应的Skill （表示qualified）
+
+
+
+
+例子：
+
+To obtain a summer internship with the Material Design Group of Google using UI/UX Design and Js/CSS skills combined with academic computer science training and 2 years experience of Web Front-end development.
+
+---
+
 合适的页边距，不要margin太大， 采用正式一些的字体比如Times New Roman, 而不是Calibri之类的
 
 
