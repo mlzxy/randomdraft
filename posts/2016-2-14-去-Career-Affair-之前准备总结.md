@@ -108,6 +108,8 @@ Be honest. 不要浮夸。
            2. Compare 不同公司的类似职位等等的问题。 
   
 
+4. 可以找recruiter要business card, 这样方便招聘会结束后继续交流。
+
 ---
 
 **Know the Company**  
