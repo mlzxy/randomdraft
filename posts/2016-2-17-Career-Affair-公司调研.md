@@ -585,7 +585,7 @@ Linkedin 上 10-50 employer， 没有官网， 也是醉了。。。
 
 ## 最低梯队
 
-感觉特苦逼，又意义不大。 或者自己不用Snapchat这种，真的申不上
+感觉特苦逼，又意义不大。 或者自己不用Snapchat这种，真的申不上(有大神表示，自己不用snapchat也给了offer。)
 
 - [Mitchell](#mitchell)
 - [Resmed](#resmed)
