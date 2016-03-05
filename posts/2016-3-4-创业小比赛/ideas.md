@@ -42,4 +42,5 @@
 （直接私信我就好）
 
 
+[关于此比赛介绍](https://github.com/BenBBear/blog/blob/master/posts/2016-3-4-%E5%88%9B%E4%B8%9A%E5%B0%8F%E6%AF%94%E8%B5%9B/intro.md)
 
