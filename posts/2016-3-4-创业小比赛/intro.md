@@ -8,7 +8,7 @@
 - 如果通过，4月3日决赛
 
 
-若觉文字多， 直接跳到 [Need Your Help](#need-your-help)
+如果你有新奇的想法，到[这个页面](https://github.com/BenBBear/blog/blob/master/posts/2016-3-4-%E5%88%9B%E4%B8%9A%E5%B0%8F%E6%AF%94%E8%B5%9B/ideas.md)和小熊讨论！
 
 
 ## 为何感兴趣
