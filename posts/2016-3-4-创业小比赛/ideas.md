@@ -33,6 +33,9 @@
 
 - [给Markdown语言加上 #投票，#Embed Webpage 等等拓展](https://github.com/BenBBear/blog/issues/9)    （这个好像很不适合，不过写出来几百个star应该是松松的，也不难写）
 
+- [用Argumented Reality改进车内GPS系统的展示方式](https://github.com/BenBBear/blog/issues/10)
+
+
 
 
 ### 求助 #2
