@@ -158,13 +158,16 @@ Detail Plan
 
 
 
+## 看后感受
+
+- 把Idea Proposal写好，着重experience，和第一人称GPS如何展示，倾向于graphics，vr，cs方面。
+
+- 选Organization
+
+- 联系mentor，要在open source organization中先participate（这个没有提前做好准备，要现在开始，另外还需要在facebook, twitter下和mentor联系，交流idea，时间很紧张）
 
 
-
-
-
-
-
+- 提交越早越好
 
 
 
